@@ -1,5 +1,7 @@
 # Robotic Arm Vehicle 
 
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPrakasRavichandran%2Frobotic-arm-vehicle&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
+
 This repository contains the code for an automation vehicle equipped with a robotic arm powered by hydraulic actuators, designed for sewage cleaning applications. The vehicle is capable of remote control through a Bluetooth module and is equipped with Mecanum wheels for easy maneuverability.
 
 ## Components Used
