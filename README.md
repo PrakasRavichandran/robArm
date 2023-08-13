@@ -1,4 +1,5 @@
-# Robotic Arm Vehicle 
+<img align="center" src="https://github.com/PrakasRavichandran/PrakasRavichandran/blob/main/logo/rob.png">
+<h1 align="center" style="color: #44AEFB;">🤖 Robotic Arm Vehicle</h1>
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPrakasRavichandran%2Frobotic-arm-vehicle&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 
